@@ -1,5 +1,5 @@
 # HFSNet -TGRS 2024
-The repository contains the implementations for Joint Classification of Hyperspectral and LiDAR Data Using Height Information Guided Hierarchical Fusion-and-Separation Network. 
+The codes for Joint Classification of Hyperspectral and LiDAR Data Using Height Information Guided Hierarchical Fusion-and-Separation Network. 
 
 Citation
 ---------------------
