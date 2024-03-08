@@ -39,3 +39,4 @@ If you encounter the bugs while using this code, please do not hesitate to conta
 Zheng Zeng, Email: s210101006@stu.cqupt.edu.cn
    
 ****
+V1: fixed some kernel sizes (2024-3-8) 
