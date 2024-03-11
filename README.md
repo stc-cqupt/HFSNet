@@ -40,3 +40,4 @@ Zheng Zeng, Email: s210101006@stu.cqupt.edu.cn
    
 ****
 V1, V2: fixed some kernel sizes (2024-3-8) 
+For new update, please refer to https://github.com/Jack-zz-ze/HFSNet
