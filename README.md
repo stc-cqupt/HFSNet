@@ -29,7 +29,7 @@ How to use it?
 Here an example experiment is given by using **Trento data**. Directly run **demo.py** functions with different network parameter settings to produce the results. Please note that due to the randomness of the parameter initialization, the experimental results might have slightly different from those reported in the paper.
 
 For the datasets of Trento, you can download the data we use from the following links:
-https://github.com/danfenghong/IEEE_GRSL_EndNet
+https://github.com/danfenghong/IEEE_GRSL_EndNet 
 
 
 If you want to run the code in your own data, you can accordingly change the input (e.g., data, labels) and tune the parameters.
